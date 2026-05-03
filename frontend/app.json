@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Coin Connect",
-    "slug": "coin-connect",
+    "name": "chato",
+    "slug": "chato",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
